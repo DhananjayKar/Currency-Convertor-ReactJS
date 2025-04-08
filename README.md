@@ -1,3 +1,3 @@
 # Currency Convertor
 
-A react Currency Convertor Site. Live @ https://currency-converter-reactjs.onrender.com
+A react Currency Convertor Site. Live @ https://currency-convertor-reactjs.onrender.com
